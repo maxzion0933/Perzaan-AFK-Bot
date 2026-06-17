@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Maxzion.aternos.me",
-    "port": 60311,
+    "ip": "maxziondemo.mcsh.io",
+    "port": 14354,
     "version": "1.21.1"
   },
   "position": {
