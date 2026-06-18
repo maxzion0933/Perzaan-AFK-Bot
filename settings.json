@@ -1,14 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MAXZIONBOT001",
+    "username": "Zoro",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "maxziondemo.mcsh.io",
-    "port": 14354,
-    "connect": 15.235.212.121,
+    "ip": "Hells_Paradise.aternos.me",
+    "port": 18910,
     "version": "1.21.1"
   },
   "position": {
